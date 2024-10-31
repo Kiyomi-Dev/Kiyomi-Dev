@@ -1,4 +1,7 @@
-## Hi there 👋
+<div class="header" align="center">
+  <h1>Hi, i'm Andrey</h1>
+  <h3>Frontend Developer</h3>
+</div>
 
 <!--
 **Kiyomi0/Kiyomi0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
